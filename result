@@ -1,0 +1,511 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]> <html class="ie ie7 lte9 lte8"> <![endif]-->
+<!--[if IE 8]> <html class="ie ie8 lte9"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]> <html> <![endif]-->
+<!--[if !IE]><!--> <html> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<!-- Google Tag Manager - Install in Head -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGM4CMJ');</script>
+<!-- End Google Tag Manager - Install in Head -->
+<title>Bianca Woods - DevLearn Conference &amp; Expo 2018</title>
+<meta name="description" content="Bianca Woods is a senior manager of programming for The eLearning Guild. With degrees in both art education and education media design and technology, sh..." /> 
+<meta name="keywords" content="3D Learning, Asynchronous, Conferences, DevLearn, eLearning, e-Learning, e Learning, e-Learning development, eLearning Insider, EPSS, ILS, Immersive Learning, Instructional Design, LCMS, Learning 2.0, Learning Solutions Magazine, LMS, mLearning, m-Learning, Mobile Learning, Online Forums, Online Learning, Performance Support, Podcasting, Rapid eLearning, SCORM, Serious Games, Simulation, Social Learning, Storyboards, Synchronous, Training, Virtual Classroom" />
+<!-- Mobile viewport optimization http://goo.gl/b9SaQ -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Home screen icons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/page_templates/images/59/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/page_templates/images/59/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/page_templates/images/59/favicon-16x16.png">
+<link rel="manifest" href="/page_templates/images/59/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+<meta http-equiv="cleartype" content="on">
+<link rel="icon" href="/page_templates/images/59/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/page_templates/images/59/favicon.ico" />
+<link rel="image_src" href="https://www.elearningguild.com/page_templates/images/59/social-share.jpg" />
+<meta property="og:description" content="DevLearn Conference & Expo 2018 - October 24-26 | Las Vegas, NV" />
+<meta property="og:image" content="https://www.elearningguild.com/page_templates/images/59/social-share.jpg" />
+<meta property="og:title" content="Bianca Woods - DevLearn Conference &amp; Expo 2018" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="eLearning Guild" />
+<meta property="og:url" content="https://www.elearningguild.com/devlearn/sessions/speaker-details.cfm?event=610&speaker=2531" />
+<link rel="canonical" href="https://www.elearningguild.com/devlearn/sessions/speaker-details.cfm?event=610&speaker=2531" />
+<!-- fonts -->
+<link rel="stylesheet" href="https://use.typekit.net/sfm2azg.css">
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link rel="stylesheet" href="/stylesheets/shell2012-responsive.css?v=31" />
+<link href="/assets/stylesheets/pure-forms-min.css" rel="stylesheet" type="text/css" />
+<link href="/assets/stylesheets/lity.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/page_templates/images/59/styles.css?v=11" type="text/css" />
+<link href="/assets/stylesheets/devlearn2018.css?v=1" rel="stylesheet" type="text/css" />
+<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+<script>window.jQuery || document.write("<script src='/javascript/jquery/jquery-1.7.2.min.js'>\x3C/script>")</script>
+<script src="/javascript/jquery/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/stylesheets/jquery-ui-1.8.custom.css" />
+<script src="/javascript/modernizr.custom.10190.js"></script>
+<!-- respond.js for browsers that don't support media queries -->
+<script type="text/javascript">
+Modernizr.load({
+test: Modernizr.mq('(min-width: 0px)'),
+nope: '/javascript/respond.min.js'
+});
+// test for Windows Mobile
+var useragent = navigator.userAgent.toLowerCase();
+var isWindowsMobile = !!useragent.match(/IEMobile/i); 
+</script>
+<!-- structured data -->
+<script type="application/ld+json">
+[{
+"@context": "http://schema.org",
+"@type": "BusinessEvent",
+"name": "DevLearn 2018 Conference & Expo",
+"description" : "DevLearn Conference & Expo is, by far, North America's leading event focused on learning technologies.",
+"url": "https://www.elearningguild.com/devlearn/content/5400/devlearn-2018-conference--expo--home/",
+"image" : "https://www.elearningguild.com/page_templates/images/59/social-share.jpg",
+"startDate": "2018-10-24T07:00",
+"endDate": "2018-10-26T12:30",
+"location": {
+"@type": "Place",
+"name": "The Mirage Hotel & Casino",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "3400 Las Vegas Boulevard South",
+"addressLocality": "Las Vegas",
+"addressRegion": "Nevada",
+"addressCountry": "US"
+}
+},
+"offers": {
+"@type": "Offer",
+"price": "1695.00",
+"priceCurrency": "USD",
+"url": "https://www.elearningguild.com/devlearn/transactions6/index.cfm?tid=609&selection=doc.5235"
+}
+}]
+</script>
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+'event': 'dataLayer-initialized'
+});
+</script>
+</head>
+<body class="program">
+<!-- Google Tag Manager (noscript) - Install in Body -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGM4CMJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) - Install in Body --> 
+<div id="content-header" class="clearfix">
+<p class="header-line1">This is</p>
+<div class="header-logo"><img src="/page_templates/images/59/devlearn-logo-white.png" alt="DevLearn"/></div>
+<p class="header-dates">October 24 &ndash; 26, 2018 &bull; Las Vegas, NV</p>
+</div>
+<div class="loginbar">
+<div class="login-menu-container">
+<div id="login-panel">
+<div class="login-form">
+<form action="https://www.elearningguild.com/sessions/speaker-details.cfm?event=610&fromselection=doc.5453&from=sessionslist&speaker=2531" method="post" name="loginForm" id="loginForm">
+<p><label for="username">Username:</label><input name="username" type="text" autocapitalize="off" maxlength="50"></p>
+<p><label for="password">Password:</label><input name="password" type="password" autocomplete="off" autocapitalize="off" maxlength="50" onKeyPress="return submitenter(this,event)"></p>
+<a href="#" id="login-submit">GO</a>
+<p><a href="/content/15/forgot-password/">Forgot Password?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/content/3144/forgot-your-username/">Forgot Username?</a></p>
+<p align="center"><a href="/content/18/join-the-guild/">Join The eLearning Guild</a></p>
+</form>
+</div>
+</div>
+</div>
+<div class="login-bar-back">
+<div class="login-container">
+<a href="#" class="login-button" id="login-button">Login</a>
+<a href="/content/18/join-the-guild/" class="join-guild"><strong>JOIN</strong> the Guild!</a>
+</div>
+</div>
+<div class="follow-us-container">
+<div class="follow-us-links">
+<p class="follow-us">Follow Us:</p>
+<a href="https://www.youtube.com/channel/UCXKcVSJuehcu2w3MMFiSQOQ" target="_blank"><img src="/images/header-youtube.png" class="header-social-icon" /></a> 
+<a href="https://twitter.com/eLearningGuild" target="_blank"><img src="/images/header-twitter.png" class="header-social-icon" /></a>
+<a href="https://www.linkedin.com/groups/102144" target="_blank"><img src="/images/header-linkedin.png" class="header-social-icon" /></a>
+<a href="http://www.facebook.com/pages/The-eLearning-Guild/265302656953" target="_blank"><img src="/images/header-facebook.png" class="header-social-icon" /></a>
+</div>
+</div>
+</div>
+<div id="connectbar">
+<div class="inner-container">
+<div class="connect-container logged-out">
+<p class="follow-us">Connect:</p>
+<a target="_blank" href="https://www.youtube.com/channel/UCXKcVSJuehcu2w3MMFiSQOQ"><img class="header-social-icon" src="/images/header-youtube.png"></a>
+<a target="_blank" href="https://twitter.com/DevLearn"><img class="header-social-icon" src="/images/header-twitter.png"></a>
+<a target="_blank" href="http://www.linkedin.com/groups?gid=3123931"><img class="header-social-icon" src="/images/header-linkedin.png"></a>
+<a target="_blank" href="https://www.facebook.com/DevLearn-141950222499225/"><img class="header-social-icon" src="/images/header-facebook.png"></a>
+</div>
+</div>
+</div>
+<div id="menu-bar">
+<div id="menuContainer">
+<a href="https://www.elearningguild.com/devlearn/content/5400/devlearn-2018-conference--expo--home" id="menu-logo"><img src="/page_templates/images/59/devlearn-logo-white.png" alt="DevLearn Conference & Expo 2018"></a>
+<div id="menu-link"><a>Menu</a></div>
+<div id="nav">
+<ul id="primary" class="clearfix closed"> 
+<li><a href="/devlearn/content/5400/devlearn-2018-conference--expo--home" data-level="1" class="sub">About</a>
+<ul> <li class="back-li"><a href="#" class="back">About</a></li> 
+<li><a href="/devlearn/content/5400/devlearn-2018-conference--expo--home/" data-level="2">Home</a>
+</li>
+<li><a href="/devlearn/content/5443/devlearn-2018-conference--expo--who-should-attend/" data-level="2">Who Should Attend?</a>
+</li>
+<li><a href="/devlearn/content/5445/devlearn-2018-conference--expo--location--lodging/" data-level="2">Location & Lodging</a>
+</li>
+<li><a href="/devlearn/content/5444/devlearn-2018-conference--expo--schedule/" data-level="2">Schedule</a>
+</li>
+<li><a href="/devlearn/content/5446/devlearn-2018-conference--expo--special-features/" data-level="2">Special Features</a>
+</li>
+<li><a href="/devlearn/content/5447/devlearn-2018-conference--expo--new-to-devlearn/" data-level="2">New to DevLearn?</a>
+</li>
+<li><a href="/devlearn/content/5535/devlearn-2018-conference--expo--mobile-app/" data-level="2">Mobile App</a>
+</li>
+<li><a href="/devlearn/content/5641/devlearn-2018-conference--expo--t-shirt-challenge/" data-level="2">T-Shirt Challenge</a>
+</li>
+<li><a href="/devlearn/content/5738/devlearn-2018-conference--expo--meet-the-guild/" data-level="2">Meet The Guild</a>
+</li>
+</ul> 
+</li>
+<li><a href="/devlearn/content/5448/devlearn-2018-conference--expo--keynotes" data-level="1" class="sub">Program</a>
+<ul> <li class="back-li"><a href="#" class="back">Program</a></li> 
+<li><a href="/devlearn/content/5448/devlearn-2018-conference--expo--keynotes/" data-level="2">Keynotes</a>
+</li>
+<li><a href="/devlearn/content/5450/devlearn-2018-conference--expo--certificate-workshops/" data-level="2">Certificate Workshops</a>
+</li>
+<li><a href="/devlearn/sessions/?selection=doc.5453&event=610" data-level="2">Sessions</a>
+</li>
+<li><a href="/devlearn/content/5455/devlearn-2018-conference--expo--morning-buzz/" data-level="2">Morning Buzz</a>
+</li>
+<li><a href="/devlearn/content/5569/devlearn-2018-conference--expo--program-perspectives/" data-level="2">Program Perspectives</a>
+</li>
+</ul> 
+</li>
+<li><a href="/devlearn/content/5456/devlearn-2018-conference--expo--expo-pass/" data-level="1" class="sub">Expo+</a>
+<ul> <li class="back-li"><a href="#" class="back">Expo+</a></li> 
+<li><a href="/devlearn/content/5456/devlearn-2018-conference--expo--expo-pass/" data-level="2">Expo+ Pass</a>
+</li>
+<li><a href="/devlearn/content/5458/devlearn-2018-conference--expo--demofest" data-level="2" class="sub">DemoFest</a>
+<ul> <li class="back-li"><a href="#" class="back">DemoFest</a></li> 
+<li><a href="/devlearn/content/5458/devlearn-2018-conference--expo--demofest/" data-level="3">DemoFest</a>
+</li>
+<li><a href="/devlearn/content/5460/devlearn-2018-conference--expo--demofest--faqs/" data-level="3">FAQs</a>
+</li>
+</ul> 
+</li>
+<li><a href="/devlearn/content/5676/devlearn-2018-conference--expo--hyperdrive" data-level="2" class="sub">Hyperdrive</a>
+<ul> <li class="back-li"><a href="#" class="back">Hyperdrive</a></li> 
+<li><a href="/devlearn/content/5472/devlearn-2018-conference--expo--hyperdrive--faq/" data-level="3">FAQ</a>
+</li>
+</ul> 
+</li>
+<li><a href="/devlearn/content/5461/devlearn-2018-conference--expo--learning-stages/" data-level="2" class="sub">Learning Stages</a>
+<ul> <li class="back-li"><a href="#" class="back">Learning Stages</a></li> 
+<li><a href="/devlearn/content/5537/devlearn-2018-conference--expo--elearning-rockstars/" data-level="3">eLearning Rockstars</a>
+</li>
+<li><a href="/devlearn/content/5538/devlearn-2018-conference--expo--elearning-tools/" data-level="3">eLearning Tools</a>
+</li>
+<li><a href="/devlearn/content/5539/devlearn-2018-conference--expo--emerging-tech/" data-level="3">Emerging Tech</a>
+</li>
+<li><a href="/devlearn/content/5540/devlearn-2018-conference--expo--management-xchange/" data-level="3">Management Xchange</a>
+</li>
+<li><a href="/devlearn/content/5541/devlearn-2018-conference--expo--strategic-solutions/" data-level="3">Strategic Solutions</a>
+</li>
+<li><a href="/devlearn/content/5542/devlearn-2018-conference--expo--xapi-central-showcase/" data-level="3">xAPI Central Showcase</a>
+</li>
+</ul> 
+</li>
+<li><a href="/devlearn/content/5442/devlearn-2018-conference--expo--exhibitors/" data-level="2">Exhibitors</a>
+</li>
+<li><a href="/surveys/?sid=197&selection=doc.3447" data-level="2">How to Sponsor/Exhibit</a>
+</li>
+</ul> 
+</li>
+<li><a href="/devlearn/content/5463/devlearn-2018-conference--expo--co-located-events/" data-level="1" class="sub">Co-Located Events</a>
+<ul> <li class="back-li"><a href="#" class="back">Co-Located Events</a></li> 
+<li><a href="/devlearn/content/5464/devlearn-2018-conference--expo--executive-forum" data-level="2">Executive Forum</a>
+</li>
+<li><a href="/devlearn/content/5511/devlearn-2018-conference--expo--the-elearning-guilds-articulate-user-conference/" data-level="2">The eLearning Guild's Articulate User Conference</a>
+</li>
+<li><a href="/devlearn/content/5510/devlearn-2018-conference--expo--microlearning-design-summit/" data-level="2">Microlearning Design Summit</a>
+</li>
+<li><a href="/devlearn/content/5558/devlearn-2018-conference--expo--the-learning-engineering-summit/" data-level="2">The Learning Engineering Summit</a>
+</li>
+<li><a href="/devlearn/content/5515/devlearn-2018-conference--expo--the-lms--learning-platforms-forum/" data-level="2">The LMS & Learning Platforms Forum</a>
+</li>
+<li><a href="/devlearn/content/5451/devlearn-2018-conference--expo--xapi-camp/" data-level="2">xAPI Camp</a>
+</li>
+</ul> 
+</li>
+<li><a href="/devlearn/transactions6/index.cfm?tid=609&selection=doc.5235" data-level="1" class="sub">Register</a>
+<ul> <li class="back-li"><a href="#" class="back">Register</a></li> 
+<li><a href="/devlearn/content/5231/devlearn-2018-conference--expo--registration-information/" data-level="2">Registration Info</a>
+</li>
+<li><a href="/devlearn/transactions6/index.cfm?tid=609&selection=doc.5235" data-level="2">Online Registration</a>
+</li>
+<li><a href="/devlearn/transactions6/expo/?tid=614&selection=doc.5236" data-level="2">Expo+ Registration</a>
+</li>
+<li><a href="/devlearn/transactions6/press/?tid=610&selection=doc.5237" data-level="2">Press Registration</a>
+</li>
+<li><a href="/devlearn/content/5462/devlearn-2018-conference--expo--discounts/" data-level="2">Discounts</a>
+</li>
+<li><a href="/devlearn/content/5229/devlearn-2018-conference--expo--faqs/" data-level="2">FAQs</a>
+</li>
+<li><a href="/devlearn/content/5238/devlearn-2018-conference--expo--code-of-conduct/" data-level="2">Code of Conduct</a>
+</li>
+<li><a href="/devlearn/content/5473/devlearn-2018-conference--expo--contact-us/" data-level="2">Contact Us</a>
+</li>
+</ul> 
+</li>
+</ul> 
+</div>
+</div>
+</div>
+<div id="main" class="sticky-footer">	
+<a id="page-title" class="anchor" name="page-title"></a>
+<div id="page-content" data-swiftype-index="true">
+<div class="page-content-light">
+<div class="inner-container clearfix">
+<div class="session-details">
+<a name="top"></a>
+<a class="button" style="margin-bottom:15px;" href="/devlearn/sessions/?event=610&amp;showtype=&amp;selection=doc.5453" data-swiftype-index="false">&lt;&nbsp;&nbsp;Back to session list</a>
+<a name="2531"></a>
+<div class="grid-r pad">
+<div class="grid-xl-span-6">
+<div class="col">
+<div class="speaker-container">
+<div class="speaker-photo"><img src="/assets/images/speakers/2531.jpg"></div>
+<div class="speaker-name">
+<h3>Bianca Woods</h3>
+<p>Sr. Manager of Programming</p> <p>The eLearning Guild</p></div>
+<div class="speaker-bio">Bianca Woods is a senior manager of programming for The eLearning Guild. 
+With degrees in both art education and education media design and 
+technology, she focuses on creating practical learning experiences that take 
+advantage of the clarity and immersiveness that technology and good 
+design can offer. Bianca has years of experience in education, including 
+designing in-class courses, eBooks, eLearning, videos, and other media for 
+BMO Financial Group; creating interprofessional collaboration content for 
+Training Pirates; and working as a classroom teacher.</div>
+</div>
+</div>
+</div>
+<div class="grid-xl-span-6">
+<div class="col">
+<div class="presenting-container">
+<h3>Presenting</h3>
+<p>708 | <a href="/devlearn/sessions/session-details.cfm?event=610&from=sessionslist&amp;showtype=&amp;fromSelection=doc.5453&session=9547">Simple Strategies for Solving L&D Visual Design Challenges</a></p>
+<div class="session-divider"></div>
+<p>MB01 | <a href="/devlearn/sessions/session-details.cfm?event=610&from=sessionslist&amp;showtype=&amp;fromSelection=doc.5453&session=9736">Orientation and Docent Morning Buzz </a></p>
+<div class="session-divider"></div>
+<p>MB18 | <a href="/devlearn/sessions/session-details.cfm?event=610&from=sessionslist&amp;showtype=&amp;fromSelection=doc.5453&session=9753">Boosting Visual Design Skills</a></p>
+<div class="session-divider"></div>
+<p>MB30 | <a href="/devlearn/sessions/session-details.cfm?event=610&from=sessionslist&amp;showtype=&amp;fromSelection=doc.5453&session=9765">How to Write a Winning Conference Speaking Proposal</a></p>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+<!-- sponsors -->
+<div class="page-content-footer">
+<div class="inner-container">
+<hr />
+<h3 style="text-align: center;">Premium Sponsors</h3>
+<div class="grid-r-auto pad exhibitors">
+<div class="grid-span-3">
+<div class="col"><a href="http://www.adobe.com/products/captivate.html" target="_blank"><img src="/assets/images/vendor/logos/adobe_65.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="https://www.allencomm.com/" target="_blank"><img src="/assets/images/vendor/logos/allencomm_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.articulate.com/" target="_blank"><img src="/assets/images/vendor/logos/articulate_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="https://bonlinelearning.com/" target="_blank"><img src="/assets/images/vendor/logos/b-online-learning_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="https://www.bluewaterlearning.com/" target="_blank"><img src="/assets/images/vendor/logos/bluewater_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.edcast.com/" target="_blank"><img src="/assets/images/vendor/logos/edcast_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.elearningbrothers.com/" target="_blank"><img src="/assets/images/vendor/logos/elearning-brothers_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="https://www.hemsleyfraser.com/digital-learning/hf-digital-hub" target="_blank"><img src="/assets/images/vendor/logos/hemsley-fraser_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.inkling.com/" target="_blank"><img src="/assets/images/vendor/logos/inkling_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.ispringsolutions.com/" target="_blank"><img src="/assets/images/vendor/logos/ispring_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.learning-tribes.com/" target="_blank"><img src="/assets/images/vendor/logos/learning-tribes_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.schoox.com/" target="_blank"><img src="/assets/images/vendor/logos/schoox_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://sealworks.com" target="_blank"><img src="/assets/images/vendor/logos/sealworks_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.totaralearning.com" target="_blank"><img src="/assets/images/vendor/logos/totara_85.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://valamis.com/" target="_blank"><img src="/assets/images/vendor/logos/valamis_130.png" border="0" /></a></div>
+</div>
+<div class="grid-span-3">
+<div class="col"><a href="http://www.yukonlearning.com/" target="_blank"><img src="/assets/images/vendor/logos/yukon_130.png" border="0" /></a></div>
+</div>
+</div> 
+</div>
+</div>
+<!-- footer -->
+<div id="footer">
+<div class="inner-container">
+<div>
+<div class="inner-container">
+<div class="grid-r pad" style="padding-right: 0; padding-top: 10px; color: #fff; font-size: 14px;">
+<div class="grid-xl-span-2 grid-lg-span-3 grid-md-span-12 grid-sm-span-12 grid-xs-span-12">
+<div class="col">
+<p style="text-align: center;"><strong>Produced by</strong></p>
+<p style="text-align: center;"><a href="http://www.elearningguild.com"><img class="img-centered" src="/assets/images/devlearn15/logos/elg_100.png" border="0" /></a></p>
+</div>
+</div>
+<div class="clearfix hidden-xl hidden-lg"><!--clear--></div>
+<div class="grid-xl-span-7 grid-lg-span-5 grid-md-span-6 grid-sm-span-12 grid-xs-span-12">
+<div class="col">
+<p style="text-align: center;"><strong>Quick Links<br />
+</strong></p>
+<div class="grid-r pad">
+<div class="grid-xl-span-4">
+<div class="col">
+<p style="margin-top: 0; margin-bottom: 0;line-height: 20px; text-align: center;"><a href="/devlearn/content/5445/devlearn-2018-conference--expo--location--lodging/">Location &amp; Lodging</a><br />
+<a href="/devlearn/content/5443/devlearn-2018-conference--expo--who-should-attend/">Who Should Attend</a></p>
+</div>
+</div>
+<div class="grid-xl-span-4">
+<div class="col">
+<p style="margin-top: 0; margin-bottom: 0;line-height: 20px; text-align: center;"> <a href="/devlearn/content/5444/devlearn-2018-conference--expo--schedule/">Schedule</a>
+<br /><a href="/devlearn/content/5499/devlearn-2018-conference--expo--speaker-information-home/">Speaker Center</a>
+</p>
+</div>
+</div>
+<div class="grid-xl-span-4">
+<div class="col">
+<p style="margin-top: 0; margin-bottom: 0;line-height: 20px; text-align: center;"><a href="/devlearn/content/5462/devlearn-2018-conference--expo--discounts/">Discounts</a><br />
+<a href="/devlearn/transactions6/index.cfm?tid=609&amp;selection=doc.5235">Registration</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix hidden-xl hidden-lg hidden-md"><!--clear--></div>
+<div class="grid-xl-span-3 grid-lg-span-4 grid-md-span-6 grid-sm-span-12 grid-xs-span-12">
+<div class="col">
+<div class="grid-r pad">
+<div class="grid-xl-span-12 grid-lg-span-12 grid-md-span-12 grid-sm-span-12 grid-xs-span-12">
+<div class="col">
+<p style="color: #fff; text-align: center;"><strong>Sign Up for Exclusive News</strong></p>
+<form id="footer-signup" class="pure-form footer-signup" action="#">
+<input id="q4" maxlength="255" name="q4" type="text" />
+<input type="submit" value="Sign Up" />
+</form>
+<div id="form-message">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"><!--clear--></div>
+<div class="grid-r pad">
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-12 grid-sm-span-12 grid-xs-span-12">
+<div class="col">&nbsp;</div>
+</div>
+<div class="clearfix hidden-xl hidden-lg hidden-md"><!--clear--></div>
+<div class="grid-xl-span-8 grid-lg-span-8 grid-md-span-12 grid-sm-span-12 grid-xs-span-12">
+<div class="col">
+<div class="grid-r pad">
+<p style="text-align: center;"><strong>Media Partners</strong></p>
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-2 grid-sm-span-12 grid-xs-span-12">
+<div class="col"><a href="http://learningsolutionsmag.com/" target="_blank"><img style="margin: 0.25em auto; display: block;" src="/assets/images/LS18_Conference/logos/lsmag_100.png" border="0" /></a></div>
+</div>
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-2 grid-sm-span-12 grid-xs-span-12">
+<div class="col"><a href="https://artillry.co/" target="_blank"><img style="margin: 0.25em auto; display: block;" src="/assets/images/devlearn18/logos/ARtillry_100.png" border="0" /></a></div>
+</div>
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-2 grid-sm-span-12 grid-xs-span-12">
+<div class="col"><a href="http://www.atdnefl.org/" target="_blank"><img style="margin: 0.25em auto; display: block;" src="/assets/images/LS18_Conference/logos/NEFL_100x26.png" border="0" /></a></div>
+</div>
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-2 grid-sm-span-12 grid-xs-span-12">
+<div class="col"><a href="https://www.educationtechnologyinsights.com/" target="_blank"><img style="margin: 0.75em auto; display: block;" src="/assets/images/devlearn18/logos/EducationTechnologyInsights_100.png" border="0" /></a></div>
+</div>
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-2 grid-sm-span-12 grid-xs-span-12">
+<div class="col"><a href="http://elearnmag.acm.org/index.cfm" target="_blank"><img style="margin: 0.25em auto; display: block;" src="/assets/images/devlearn15/logos/elearn-magazine_100.png" border="0" /></a></div>
+</div>
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-2 grid-sm-span-12 grid-xs-span-12">
+<div class="col"><a href="http://trainingindustry.com/" target="_blank"><img style="margin: 0.25em auto; display: block;" src="/assets/images/devlearn15/logos/training-industry_100.png" border="0" /></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-xl-span-2 grid-lg-span-2 grid-md-span-12 grid-sm-span-12 grid-xs-span-12">
+<div class="col">&nbsp;</div>
+</div>
+</div>
+<p style="text-align: center; margin-bottom: 70px;">&copy; 2018 The eLearning Guild. All rights reserved. +1.707.566.8990 &bull; <a href="mailto:service@eLearningGuild.com">service@eLearningGuild.com</a></p>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+<!-- combined js -->
+<script>
+var desktopWidth = 700;
+</script>
+<script type="text/javascript" src="/javascript/events-combined.min.js?v=5"></script>
+<!-- signup form validation -->
+<script src="/javascript/jquery/jquery-validation-1_9_0/jquery.validate.min.js"></script>
+<script src="/page_templates/images/59/signup_validation.js?v=5"></script>
+<!-- waypoints -->
+<script type="text/javascript" src="/assets/javascript/waypoints/jquery.waypoints.min.js"></script>
+<script>
+var waypoints = $(' #page-content').waypoint({
+handler: function(direction) {
+if (direction == 'down') {
+$("#fixed-footer-bar").addClass('show');
+} else {
+$("#fixed-footer-bar").removeClass('show');
+}
+}
+})
+</script>
+<!-- IOS zoom bug fix -->
+<script>
+MBP.scaleFix();
+</script>
+<!-- Lity -->
+<script src="/assets/javascript/lity/lity.js"></script>
+</body>
+</html> 
