@@ -1,0 +1,11 @@
+---
+:file_path: "./read/"
+:file_name: shortsessionlist_all
+:sitetype: devlearn_sessions_test
+:label0: ".session-details"
+:label1: ".sessman"
+:label2: ".time"
+:label3: session-info
+:label4: ".session-description"
+:label5: ".speaker-name"
+:label6: ".speaker-bio"

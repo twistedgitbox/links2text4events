@@ -12,19 +12,58 @@ Bundler.require(:default)
 #  require file
 #end
 
-class Sitecheck
+class Site_LinkReader
 
   def initialize
     info = {}
     @info = {}
+    puts info, @info
+    puts "LINKREADER-INIT"
     #  self.set_info(info)
     #  linklist = self.get_links(info)
     #  self.read_links(linklist, info)
     #self.testme
     #self.fill_speakergroup(info)
-    self.set_site(info)
-    exit
+    #self.set_site(info)
+  end
 
+  def link_list_run(filename, template_path)
+    puts "FILE #{filename}"
+    puts "READERFILE #{template_path}"
+    puts "DONE WITH LINKLIST"
+    @from_file = YAML.load_file("#{template_path}")
+    puts @from_file[:sitetype]
+    puts @from_file[:file_name]
+    info = {}
+    @info = {}
+    @savefile = filename
+    self.set_site(info)
+  end
+
+  def set_site(info)
+    site_type = "devlearn_speakers"
+    puts @from_file[:sitetype]
+    site_type = @from_file[:sitetype]
+    #site_type = "devlearn_sessions"
+    puts site_type
+
+    ##case site_type
+    ##when "devlearn_speakers"
+    ##  self.devlearn_speaker_info(site_type)
+    ##when "devlearn_sessions"
+    ##  self.devlearn_session_info(site_type)
+    ##else
+    ##  puts "NO VIABLE TEMPLATE"
+    ##  exit
+    ##end
+    #self.devlearn_speaker_info(site_type)
+    #self.devlearn_session_info(site_type)
+    info = self.get_info(site_type)
+    self.fill_speakergroup(info)
+    puts info
+    puts @info
+    puts @group
+    puts "WHAT NEXT?"
   end
 
   def fill_speakergroup(info)
@@ -40,8 +79,10 @@ class Sitecheck
   end
 
   def arrayhash2file(csv_filename = "./export/#{@info[:sitetype]}_collection.csv")
+    puts "SAVEFILE - #{@savefile}"
+    savefilename = @savefile
     ourtime = self.get_ourtime
-    csv_filename = "./export/#{@info[:sitetype]}_collection_#{ourtime}.csv"
+    csv_filename = "./export/#{@info[:sitetype]}_#{savefilename}_#{ourtime}.csv"
     group = @group
     puts group
     CSV.open(csv_filename, "wb") do |csv|
@@ -54,25 +95,11 @@ class Sitecheck
     end
   end
 
-  def set_site(info)
-    site_type = "devlearn_speakers"
-    #site_type = "devlearn_sessions"
-    puts site_type
-    self.devlearn_speaker_info(site_type)
-    #self.devlearn_session_info(site_type)
-    info = self.get_info(site_type)
-    self.fill_speakergroup(info)
-    puts info
-    puts @info
-    puts @group
-    puts "WHAT NEXT?"
-  end
-
   def devlearn_speaker_info(site_type)
     puts "MISSION-PRE:#{site_type}"
     set_options = {
       file_path: "./read/",
-      file_name: "speakerlist_all",
+      file_name: "shortspeakerlist_all",
       sitetype:  "#{site_type}",
       #speaker_container: ".speaker-container"
       label0: ".speaker-container",
@@ -85,14 +112,14 @@ class Sitecheck
     }
     puts set_options
     puts "MISSION: #{site_type}"
-    File.write("./options/#{site_type}_options.yml",set_options.to_yaml)
+    File.write("./options/#{site_type}.yml",set_options.to_yaml)
   end
 
   def devlearn_session_info(site_type)
     puts "MISSION-PRE:#{site_type}"
     set_options = {
       file_path: "./read/",
-      file_name: "sessionlist_all",
+      file_name: "shortsessionlist_all",
       sitetype:  "#{site_type}",
       label0: ".session-details",
       label1: ".sessman",
@@ -105,13 +132,12 @@ class Sitecheck
     }
     puts set_options
     puts "MISSION: #{site_type}"
-    File.write("./options/#{site_type}_options.yml",set_options.to_yaml)
+    File.write("./options/#{site_type}.yml",set_options.to_yaml)
   end
-
 
   def get_info(site_type)
     info = {}
-    from_file = YAML.load_file("./options/#{site_type}_options.yml")
+    from_file = YAML.load_file("./options/#{site_type}.yml")
     info[:file_path] = from_file[:file_path]
     info[:file_name] = from_file[:file_name]
     info[:sitetype] = from_file[:sitetype]
@@ -305,13 +331,14 @@ class Sitecheck
     ending = host[-4..-1]
     ending.strip!
     ourtime = self.get_ourtime
+    puts ourtime
     puts host
     puts ending
     testfile = fetch("#{sitetype}_#{ending}.html", "#{host}")
-    st = "https://www.elearningguild.com/devlearn/sessions/speaker-details.cfm?event=610&fromselection=doc.5453&from=sessionslist&speaker=2531"
     puts "test-#{testfile}"
   end
+
 end
 
-siteinfo = Sitecheck.new
+siteinfo = Site_LinkReader.new
 
