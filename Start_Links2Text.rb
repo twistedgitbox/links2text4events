@@ -27,6 +27,16 @@ class Reader_Run
     end
     filename = testbox[0]
     option = testbox[1]
+    case filename
+      when "SET_OPTION"
+        puts "WHAT"
+      else
+        self.run_linkreader(filename, option)
+    end
+    exit
+  end
+
+  def run_linkreader(filename, option)
     #checkfile = self.check_filename(filename)
     checkfile = true
     checktemplate = self.check_template(option)
